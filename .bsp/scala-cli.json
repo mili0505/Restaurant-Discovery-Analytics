@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\miile\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\miile\\Desktop\\SEM VII\\ABDA\\RestaurantAnalytics\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\miile\\Desktop\\SEM VII\\ABDA\\RestaurantAnalytics\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\miile\\Desktop\\SEM VII\\ABDA\\RestaurantAnalytics\\.scala-build\\ide-envs.json",
+    "C:\\Users\\miile\\Desktop\\SEM VII\\ABDA\\RestaurantAnalytics"
+  ],
+  "version": "1.15.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
